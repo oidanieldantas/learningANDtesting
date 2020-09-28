@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var operar =['+','-','*','/','%','**'];
+        var n1 = '5';
+        var n2 = '2';
+        function operação(item){
+            let resp = eval(n1+item+n2);
+            document.writeln(`${n1} ${item} ${n2} = ${resp} <br/>`);
+        }
+        operar.forEach(operação);
+    </script>
+</body>
+</html>
