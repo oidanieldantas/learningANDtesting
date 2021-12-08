@@ -149,4 +149,4 @@ iface enp0s8 inet static
   
   Na sequência, serão demonstradas a instalação e a configuração dos programas citados e de outros complementares igualmente relevantas, que os quais o detalhamento extrapola o escopo deste documento.  
   
-
+  https://linuxhint.com/setup-ntp-server-and-client-on-ubuntu/
