@@ -152,5 +152,5 @@ iface enp0s8 inet static
 
 
 
-__(VERSÃO NÃO FINALIZADA)__
+__(VERSÃO NÃO FINALIZADA)__   
   https://linuxhint.com/setup-ntp-server-and-client-on-ubuntu/
