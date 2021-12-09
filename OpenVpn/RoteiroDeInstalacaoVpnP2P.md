@@ -148,5 +148,9 @@ iface enp0s8 inet static
   Uns desses serviços são o [ssh](https://wiki.debian.org/SSH), para acesso remoto, o [ntp](https://wiki.debian.org/NTP) e [ntpdate](https://manpages.debian.org/testing/ntpdate/ntpdate.8.en.html), essenciais para o sincronismo em ambientes de redes, o [tcpdump](https://manpages.debian.org/testing/tcpdump/tcpdump.8.en.html) e outras ferramentas para análise de tráfego e gerência do sistema.  
   
   Na sequência, serão demonstradas a instalação e a configuração dos programas citados e de outros complementares igualmente relevantas, que os quais o detalhamento extrapola o escopo deste documento.  
-  
+
+
+
+
+__(VERSÃO NÃO FINALIZADA)__
   https://linuxhint.com/setup-ntp-server-and-client-on-ubuntu/
